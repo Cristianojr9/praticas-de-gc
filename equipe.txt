@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 Lucas do Nascimento Diniz
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+João Teixeira do Nascimento
+=======
+>>>>>>> 2e2a5cc7db649605d47ca273000bb94a773830f8
+=======
+Antonio Cristiano Maciel da Silva Junior
+>>>>>>> cristianojr
+>>>>>>> a74bd973b85ee9620c6665c80cdf7b479f5674e2
