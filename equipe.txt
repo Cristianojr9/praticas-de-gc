@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 João Teixeira do Nascimento
 =======
 >>>>>>> 2e2a5cc7db649605d47ca273000bb94a773830f8
+=======
+Antonio Cristiano Maciel da Silva Junior
+>>>>>>> cristianojr
